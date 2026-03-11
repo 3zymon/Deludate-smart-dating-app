@@ -1,4 +1,4 @@
-# Deludate-smart-dating-app-
+# Deludate-smart-dating-app
 Modern dating app with interactive and intelligent featuers.
 
 Deludate is a conceptual system design project of a modern dating application focused on intelligent user interaction and personalized experiences.
