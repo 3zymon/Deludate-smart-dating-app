@@ -23,3 +23,13 @@ The repository contains system design documentation including:
 
 Full documentation available in:
 `Deludate_documentation.pdf`
+
+## UML Diagrams
+The documentation includes several UML diagrams describing the architecture and behavior of the application:
+
+- **Use Case Diagram** – overview of user interactions with the system
+- **Class Diagram** – structure of system classes and relationships
+- **State Machine Diagrams** – application states and transitions
+- **Activity Diagrams** – workflow of system processes
+- **Sequence Diagrams** – interaction flow between system components
+- **Communication Diagrams** – object communication within the system
